@@ -12,5 +12,5 @@
 # License for the specific language governing permissions and limitations under
 # the License.
 
-"""napalm_skeleton package."""
-from skeleton import SkeletonDriver
+"""napalm_asa package."""
+from napalm_asa.asa import ASADriver
